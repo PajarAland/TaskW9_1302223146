@@ -1,0 +1,11 @@
+C:\Users\alienware\source\repos\TaskW9\KonversiSuhuLibraries\bin\Debug\net8.0\KonversiSuhuLibraries.deps.json
+C:\Users\alienware\source\repos\TaskW9\KonversiSuhuLibraries\bin\Debug\net8.0\KonversiSuhuLibraries.dll
+C:\Users\alienware\source\repos\TaskW9\KonversiSuhuLibraries\bin\Debug\net8.0\KonversiSuhuLibraries.pdb
+C:\Users\alienware\source\repos\TaskW9\KonversiSuhuLibraries\obj\Debug\net8.0\KonversiSuhuLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alienware\source\repos\TaskW9\KonversiSuhuLibraries\obj\Debug\net8.0\KonversiSuhuLibraries.AssemblyInfoInputs.cache
+C:\Users\alienware\source\repos\TaskW9\KonversiSuhuLibraries\obj\Debug\net8.0\KonversiSuhuLibraries.AssemblyInfo.cs
+C:\Users\alienware\source\repos\TaskW9\KonversiSuhuLibraries\obj\Debug\net8.0\KonversiSuhuLibraries.csproj.CoreCompileInputs.cache
+C:\Users\alienware\source\repos\TaskW9\KonversiSuhuLibraries\obj\Debug\net8.0\KonversiSuhuLibraries.dll
+C:\Users\alienware\source\repos\TaskW9\KonversiSuhuLibraries\obj\Debug\net8.0\refint\KonversiSuhuLibraries.dll
+C:\Users\alienware\source\repos\TaskW9\KonversiSuhuLibraries\obj\Debug\net8.0\KonversiSuhuLibraries.pdb
+C:\Users\alienware\source\repos\TaskW9\KonversiSuhuLibraries\obj\Debug\net8.0\ref\KonversiSuhuLibraries.dll
